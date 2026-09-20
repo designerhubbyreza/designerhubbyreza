@@ -8,6 +8,7 @@
 
 I turn ideas into clear, attractive, and purposeful visual designs for brands, businesses, and social-media audiences.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Forhad_Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/)
 [![GitHub](https://img.shields.io/badge/GitHub-designerhubbyreza-181717?style=for-the-badge&logo=github)](https://github.com/designerhubbyreza)
 
 </div>
@@ -34,6 +35,20 @@ My approach combines creativity with problem-solving. I understand what a brand 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 </p>
 
+## Featured Portfolio
+
+### [Social Media Designs](https://github.com/designerhubbyreza/social-media-designs)
+
+Brand introductions, promotional campaigns, visual storytelling, and platform-ready creative concepts—including **Lazy Guy Maldives** and **Design Hub by Reza**.
+
+### [Branding Projects](https://github.com/designerhubbyreza/branding-projects)
+
+Logo direction, brand identity systems, color and typography decisions, and campaign applications.
+
+### [Print & Promotional Designs](https://github.com/designerhubbyreza/print-and-promotional-designs)
+
+Flyers, posters, banners, brochures, and production-ready promotional artwork.
+
 ## What I Create
 
 | Service | What I Deliver |
@@ -51,33 +66,11 @@ My approach combines creativity with problem-solving. I understand what a brand 
 
 My work experience in the Maldives has strengthened my ability to produce commercial designs for real business needs, work within deadlines, follow brand requirements, and adapt visuals for different audiences and platforms.
 
-**Key strengths developed:**
-
 - Converting business messages into engaging visual content
 - Maintaining brand consistency across multiple designs
 - Preparing designs for digital and print use
 - Solving layout, readability, and communication problems
 - Managing revisions while protecting overall design quality
-
-## Selected Creative Work
-
-### Social Media Campaign Design
-
-**Challenge:** Businesses need frequent content without losing visual consistency.
-
-**Solution:** Create reusable design systems with coordinated colors, typography, imagery, and layout rules—making every post recognizable while keeping the content fresh.
-
-### Brand Introduction — Lazy Guy Maldives
-
-**Challenge:** Introduce a modern brand with a strong first impression.
-
-**Solution:** Develop premium brand-introduction artwork with clear hierarchy, confident typography, and a contemporary visual style suited to social media.
-
-### Design Hub by Reza
-
-**Challenge:** Present a growing range of creative services under one professional identity.
-
-**Solution:** Build a flexible visual direction that can showcase social-media design, branding, promotional artwork, and future portfolio projects consistently.
 
 ## How I Solve Design Problems
 
@@ -87,21 +80,11 @@ My work experience in the Maldives has strengthened my ability to produce commer
 4. Create and refine the artwork using professional design tools.
 5. Prepare the final design for the required digital or print format.
 
-## Portfolio Development
-
-This profile is a growing showcase. Upcoming project repositories will include:
-
-- Social-media design collections
-- Brand identity presentations
-- Before-and-after redesign case studies
-- Promotional and print-design samples
-- Creative process and project explanations
-
 ## Let’s Work Together
 
 I am interested in graphic-design projects, brand collaborations, and creative opportunities.
 
-**GitHub:** [github.com/designerhubbyreza](https://github.com/designerhubbyreza)  
+**LinkedIn:** [Mohammad Forhad Reza](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/)  
 **Location:** Maldives
 
 ---
